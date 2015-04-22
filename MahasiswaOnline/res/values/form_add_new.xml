@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="tv_nama">Nama:</string>
+     <string name="tv_nim">NIM:</string>
+     <string name="tv_telp">Telp/HP:</string>
+     <string name="tv_alamat">Alamat:</string>
+     
+     <string name="hint_nim">nomor induk mahasiswa</string>
+     <string name="hint_nama">nama lengkap</string>
+     <string name="hint_telp">no telp</string>
+     <string name="hint_alamat">alamat lengkap</string>
+     
+</resources>
